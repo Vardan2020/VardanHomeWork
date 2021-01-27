@@ -11,6 +11,6 @@ public class StreamAPiXhndirThree {
         list.add("yanvar");
         list.add("fevral");
         list.stream();
-        list.forEach(s -> System.out.println(s.length()*2));
+        list.forEach(s -> System.out.println(s.length()+1));
     }
 }
