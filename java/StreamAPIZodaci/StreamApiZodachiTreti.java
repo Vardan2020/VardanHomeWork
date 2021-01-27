@@ -1,11 +1,9 @@
-package StreamAPIZodaci;  // 3. У вас есть коллекция строк. Увеличьте длину каждого элемента коллекции на один символ.
-
-import org.w3c.dom.stylesheets.LinkStyle;
+package StreamAPIZodaci;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class StreamAPiXhndirThree {
+public class StreamApiZodachiTreti {
     public static void main(String[] args) {
         List<String> list = new ArrayList<>();
         list.add("yanvar");
