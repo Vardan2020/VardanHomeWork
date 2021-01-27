@@ -1,3 +1,5 @@
+package StreamAPIZodaci;
+
 import java.util.ArrayList;   // Уровень 1 У вас есть коллекция строк. Выведите ее на консоль.
                              // (При решении задач обязательно использовать методы Stream API и лямбды )
 import java.util.List;
