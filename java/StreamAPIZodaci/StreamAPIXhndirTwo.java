@@ -8,8 +8,7 @@ public class StreamAPIXhndirTwo {
         List<Integer> list = new ArrayList<>();
         list.add(70);
         list.add(27);
-        list.stream();
-        list.forEach(s-> System.out.println(s*2));
+        list.stream().forEach(s-> System.out.println(s*2));
 
 
 
