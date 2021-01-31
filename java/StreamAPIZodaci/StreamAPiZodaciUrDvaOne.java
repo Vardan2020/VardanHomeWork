@@ -19,9 +19,20 @@ public class StreamAPiZodaciUrDvaOne {
         list.add(7);
         list.add(9);
         list.add(11);
+list.stream().forEach(s-> zuygox(s));
+
 
     }
+private static void zuygox(int s){
+        if(s%2 != 0) {
+            s=s+1;}
+            System.out.print(s+" ");
+        }
+
 }
+
+
+
 
 
 
